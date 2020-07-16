@@ -1,4 +1,4 @@
-# SrinivasanCodingSample
+# Srinivasan CodingSample
 
 The analysis associated with the writing sample is presented here.    
 
